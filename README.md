@@ -1,3 +1,3 @@
 # Simpler-Lineer-Regression-Practices
 
-Bu depo tamamen Simple Lineer Regresyon uygulamaları içerecektir. 
+Machine learning practice
